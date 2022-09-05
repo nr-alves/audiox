@@ -1,2 +1,3 @@
 audiox:
-  splitter-file:
+  splitter-file: C:\Users\nuno\Documents\projects\index-splitter.txt
+  audio-file: C:\Users\nuno\Documents\projects\audio-test.mp3
